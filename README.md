@@ -25,8 +25,8 @@ Here are some of the technologies and tools I have worked with:
 - **Languages**: Java (8+), Python, JavaScript, TypeScript
 - **Frontend**: React.js, Angular
 - **Backend**: Spring Boot, Node.js
-- **Cloud**: AWS, Azure
-- **Database**: MySQL, PostgreSQL, MongoDB, Cosmos DB
+- **Cloud**: AWS, Azure, GCP
+- **Database**: MySQL, PostgreSQL, MongoDB, Cosmos DB, Neo4j
 - **DevOps**: Docker, Kubernetes, Terraform, Ansible, GitLab CI/CD
 - **Others**: Apache Kafka, RabbitMQ, Selenium, Power BI
 
